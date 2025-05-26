@@ -5,7 +5,7 @@ import GridImage4 from "../../assets/Charakteristik/04.png";
 import GridImage5 from "../../assets/Charakteristik/05.png";
 import GridImage6 from "../../assets/Charakteristik/06.png";
 import BlackStar from "../../assets/Charakteristik/BlackStar.png";
-import NodeJs from "../../assets/Charakteristik/NodeJs.png";
+import NodeJs from "../../assets/Charakteristik/nodeJs.png";
 
 const CharacteristicsSection = () => {
   return (
