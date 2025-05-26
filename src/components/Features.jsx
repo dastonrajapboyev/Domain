@@ -29,7 +29,7 @@ const Features = () => {
                 <h3 className="font-bold mb-3 sm:mb-4 text-sm sm:text-base">
                   CPU PLATINUM PROCESSOR
                 </h3>
-                <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4 rounded-[50px] sm:rounded-[102px] shadow-[0px_0px_25px_rgba(0,0,0,0.05)] bg-white p-3 sm:p-4">
+                <div className="flex  sm:flex-row justify-between items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4 rounded-[50px] sm:rounded-[102px] shadow-[0px_0px_25px_rgba(0,0,0,0.05)] bg-white p-3 sm:p-4">
                   <span className="bg-gradient-to-r from-gray-800 to-gray-700 px-3 sm:px-4 py-2 sm:py-4 rounded-full text-xs sm:text-sm text-white whitespace-nowrap">
                     1 CORE
                   </span>
@@ -41,7 +41,7 @@ const Features = () => {
                 <h3 className="font-bold mb-3 sm:mb-4 text-sm sm:text-base">
                   RAM DDR4 MEMORY
                 </h3>
-                <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4 rounded-[50px] sm:rounded-[102px] shadow-[0px_0px_25px_rgba(0,0,0,0.05)] bg-white p-3 sm:p-4">
+                <div className="flex  sm:flex-row justify-between items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4 rounded-[50px] sm:rounded-[102px] shadow-[0px_0px_25px_rgba(0,0,0,0.05)] bg-white p-3 sm:p-4">
                   <span className="bg-gradient-to-t from-green-600 to-green-400 text-white px-3 sm:px-6 py-2 sm:py-4 rounded-full text-xs sm:text-sm whitespace-nowrap">
                     1 GB
                   </span>
@@ -53,7 +53,7 @@ const Features = () => {
                 <h3 className="font-bold mb-3 sm:mb-4 text-sm sm:text-base">
                   NVME SSD 16 PB
                 </h3>
-                <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4 rounded-[50px] sm:rounded-[102px] shadow-[0px_0px_25px_rgba(0,0,0,0.05)] bg-white p-3 sm:p-4">
+                <div className="flex  sm:flex-row justify-between items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4 rounded-[50px] sm:rounded-[102px] shadow-[0px_0px_25px_rgba(0,0,0,0.05)] bg-white p-3 sm:p-4">
                   <span className="bg-gradient-to-t from-gray-800 to-gray-600 text-white px-3 sm:px-6 py-2 sm:py-4 rounded-full text-xs sm:text-sm whitespace-nowrap">
                     8 GB
                   </span>
@@ -68,7 +68,7 @@ const Features = () => {
                 <h3 className="font-bold mb-2 text-sm sm:text-base">
                   GPU AI • GAME
                 </h3>
-                <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4 rounded-[50px] sm:rounded-[102px] shadow-[0px_0px_25px_rgba(0,0,0,0.05)] bg-white p-3 sm:p-4">
+                <div className="flex sm:flex-row justify-between items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4 rounded-[50px] sm:rounded-[102px] shadow-[0px_0px_25px_rgba(0,0,0,0.05)] bg-white p-3 sm:p-4">
                   <span className="bg-yellow-500 text-black px-3 sm:px-6 py-2 sm:py-4 rounded-full font-bold text-xs sm:text-sm whitespace-nowrap">
                     1 GB
                   </span>
@@ -89,7 +89,7 @@ const Features = () => {
                 <h3 className="font-bold mb-2 text-sm sm:text-base">
                   VPS / VDS
                 </h3>
-                <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4 rounded-[50px] sm:rounded-[102px] shadow-[0px_0px_25px_rgba(0,0,0,0.05)] bg-white p-3 sm:p-4">
+                <div className="flex sm:flex-row justify-between items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4 rounded-[50px] sm:rounded-[102px] shadow-[0px_0px_25px_rgba(0,0,0,0.05)] bg-white p-3 sm:p-4">
                   <span className="bg-gradient-to-t from-cyan-500 to-cyan-300 text-black px-3 sm:px-4 py-2 sm:py-4 rounded-full font-bold text-xs sm:text-sm whitespace-nowrap">
                     GET
                   </span>

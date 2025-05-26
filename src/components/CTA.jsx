@@ -44,7 +44,7 @@ const CTA = () => {
         </div>
 
         <div className="text-center">
-          <div className="bg-white w-[247px] rounded-2xl p-6 mb-4 h-32 flex items-center justify-center gap-2 ">
+          <div className="bg-white  w-[247px] rounded-2xl p-6 mb-4 h-32 flex items-center justify-center gap-2 ">
             <img src={Star} alt="image" />
             <div className="mt-6">
               Real Time <br />
