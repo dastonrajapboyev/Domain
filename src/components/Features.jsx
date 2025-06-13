@@ -3,19 +3,20 @@ import ImageBottom from "../../assets/Features/Vector-bottom.png";
 
 const Features = () => {
   return (
-    <div className="relative">
+    <div className="relative ">
       <h2
-        className="text-black font-syne font-extrabold tracking-[0.04em] capitalize relative z-20 text-right
+        style={{ marginTop: "-40px" }}
+        className="text-black container__header tracking-[3.1px]  font-black font-syne font-extrabold  capitalize relative z-20 text-right
   text-[28px] leading-[24px] mb-[-20px] pr-4
   sm:text-[40px] sm:leading-[36px] sm:mb-[-30px] sm:pr-6
   md:text-[60px] md:leading-[50px] md:mb-[-50px] md:pr-10
   lg:text-[80px] lg:leading-[65px] lg:mb-[-65px] lg:pr-16
-  xl:text-[100px] xl:leading-[77px] xl:mb-[-80px] xl:pr-20">
+  xl:text-[130px] xl:leading-[77px] xl:mb-[-80px] xl:pr-20">
         SERVER
       </h2>
 
-      <img className="w-full h-auto" src={ImageTop} alt="image" />
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 mt-[-120px] sm:mt-[-180px] md:mt-[-220px] lg:mt-[-260px]">
+      <img className="w-full h-auto mt-[-65px]" src={ImageTop} alt="image" />
+      <div className="container__header mx-auto mt-[-120px] sm:mt-[-180px] md:mt-[-220px] lg:mt-[-340px]">
         <div
           className="bg-gray-500 rounded-[20px] sm:rounded-[30px] md:rounded-[42px]
           backdrop-blur-sm
